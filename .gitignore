@@ -1,5 +1,5 @@
 .idea
 *.class
-git.iml
 hello/*
-
+out
+/src/oscar_age_female.csv
